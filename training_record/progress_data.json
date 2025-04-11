@@ -1,0 +1,25 @@
+{
+  "weight": [
+    {
+      "date": "2025-04-09",
+      "value": 72.5
+    }
+  ],
+  "resting_heart_rate": [
+    {
+      "date": "2025-04-09",
+      "value": 54
+    }
+  ],
+  "weekly_distance": [],
+  "training_sessions": [
+    {
+      "type": "easy_run",
+      "distance": 5.0,
+      "duration": 30,
+      "avg_heart_rate": 140,
+      "avg_pace": 6.0,
+      "date": "2025-04-09"
+    }
+  ]
+}
