@@ -1,25 +1,102 @@
 {
-  "weight": [
+  "training_records": [
     {
-      "date": "2025-04-09",
-      "value": 72.5
+      "date": "2025-03-04",
+      "type": "running",
+      "distance": 5.07,
+      "duration": 30.98,
+      "avg_heart_rate": 169,
+      "avg_pace": 6.11
+    },
+    {
+      "date": "2025-03-06",
+      "type": "running",
+      "distance": 5.52,
+      "duration": 33.7,
+      "avg_heart_rate": 167,
+      "avg_pace": 6.11
+    },
+    {
+      "date": "2025-03-11",
+      "type": "heart_rate",
+      "distance": 6.49,
+      "duration": 45.8,
+      "avg_heart_rate": 163.0,
+      "avg_pace": 6.43
+    },
+    {
+      "date": "2025-03-12",
+      "type": "running",
+      "distance": 5.79,
+      "duration": 23.45,
+      "avg_heart_rate": 119,
+      "avg_pace": 4.05
+    },
+    {
+      "date": "2025-03-13",
+      "type": "running",
+      "distance": 4.1,
+      "duration": 36.72,
+      "avg_heart_rate": 136,
+      "avg_pace": 8.96
+    },
+    {
+      "date": "2025-03-18",
+      "type": "running",
+      "distance": 6.92,
+      "duration": 41.5,
+      "avg_heart_rate": 152,
+      "avg_pace": 6.0
+    },
+    {
+      "date": "2025-03-22",
+      "type": "walking",
+      "distance": 1.0,
+      "duration": 13.8,
+      "avg_heart_rate": 117,
+      "avg_pace": 10.55
+    },
+    {
+      "date": "2025-03-27",
+      "type": "running",
+      "distance": 5.45,
+      "duration": 39.08,
+      "avg_heart_rate": 151,
+      "avg_pace": 7.17
+    },
+    {
+      "date": "2025-03-29",
+      "type": "running",
+      "distance": 10.06,
+      "duration": 59.62,
+      "avg_heart_rate": 165,
+      "avg_pace": 5.93
+    },
+    {
+      "date": "2025-04-01",
+      "type": "running",
+      "distance": 1.0,
+      "duration": 10.55,
+      "avg_heart_rate": 147,
+      "avg_pace": 10.55
     }
   ],
-  "resting_heart_rate": [
+  "resting_heart_rates": [
     {
-      "date": "2025-04-09",
-      "value": 54
-    }
-  ],
-  "weekly_distance": [],
-  "training_sessions": [
+      "date": "2025-03-07",
+      "value": 59
+    },
     {
-      "type": "easy_run",
-      "distance": 5.0,
-      "duration": 30,
-      "avg_heart_rate": 140,
-      "avg_pace": 6.0,
-      "date": "2025-04-09"
+      "date": "2025-03-07",
+      "value": 101
+    },
+    {
+      "date": "2025-03-13",
+      "value": 53
+    },
+    {
+      "date": "2025-03-17",
+      "value": 53
     }
   ]
 }
