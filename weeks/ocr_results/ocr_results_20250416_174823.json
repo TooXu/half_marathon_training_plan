@@ -1,0 +1,296 @@
+[
+  {
+    "image_name": "3 月 4 日 周二.PNG",
+    "relative_path": "week01/3 月 4 日 周二.PNG",
+    "processed_time": "2025-04-16T17:47:59.485377",
+    "raw_text": "09:59\n训练与练习 3月4日周二\n体能训练详细信息 显示更多\n体能训练时间 距离\n0:30:59 5.07公里\n动态卡路里 总卡路里\n342大卡 392大卡\n平均步频 平均配速\n166步/分 6'06\"/公里\n平均心率\n169次/分\n耗能 ±\n7 困难\n单段 显示更多\n时间 配速 心率\n1 06:00 6'00\" 155次/分\n2 06:03 6'03\" 170次/分\n3 06:11 6'11\" 172次/分\n4 06:01 6'01\" 172次/分\n5 06:08 6'08\" 173次/分\n摘要 Fitness+ 共享",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-04",
+        "weekday": "二",
+        "week_number": "01",
+        "training_time": "09",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 599,
+        "duration_raw": "09:59",
+        "distance": 5.07,
+        "calories": {
+          "dynamic": null,
+          "total": 342,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": 166,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": 118,
+          "average_raw": "1'58\"",
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 169,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  },
+  {
+    "image_name": "3 月 7 日 静息心率2.png",
+    "relative_path": "week01/3 月 7 日 静息心率2.png",
+    "processed_time": "2025-04-16T17:48:03.141229",
+    "raw_text": "10:07\n心率\n完成\n小时 日 周 月 6个月 年\n范围\n45-146 次/分\n今天\n200\n100\n0时 6时 12时 18时\n0\n最新:09:48\n101次/分\n范围\n45-146次/分\n静息心率\n47次/分\n步行平均心率\n--次/分",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-07",
+        "weekday": null,
+        "week_number": "01",
+        "training_time": "10",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 607,
+        "duration_raw": "10:07",
+        "distance": null,
+        "calories": {
+          "dynamic": null,
+          "total": null,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": null,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": null,
+          "average_raw": null,
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 47,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  },
+  {
+    "image_name": "3 月 6 日 周四.PNG",
+    "relative_path": "week01/3 月 6 日 周四.PNG",
+    "processed_time": "2025-04-16T17:48:08.380573",
+    "raw_text": "09:59\n训练与练习\n3月6日周四\n体能训练详细信息\n显示更多\n体能训练时间 距离\n0:33:42 5.52公里\n动态卡路里 总卡路里\n368大卡 421大卡\n平均步频 平均配速\n168步/分 6'06\"/公里\n平均心率\n167次/分\n耗能 ±\n7 困难\n单段 显示更多\n时间 配速 心率\n1 06:01 6'01\" 154次/分\n2 05:48 5'48\" 168次/分\n3 05:58 5'58\" 170次/分\n4 06:07 6'07\" 171次/分\n5 06:25 6'25\" 170次/分\n摘要 Fitness+ 共享",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-06",
+        "weekday": "四",
+        "week_number": "01",
+        "training_time": "09",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 599,
+        "duration_raw": "09:59",
+        "distance": 5.52,
+        "calories": {
+          "dynamic": null,
+          "total": 368,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": 168,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": 108,
+          "average_raw": "1'48\"",
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 167,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  },
+  {
+    "image_name": "3 月 6 日 心率.png",
+    "relative_path": "week01/3 月 6 日 心率.png",
+    "processed_time": "2025-04-16T17:48:13.633333",
+    "raw_text": "14:12\n心率\n×\n平均心率\n167次/分\n心率\n173\n08:37 08:48 08:59 137\n平均167次/分\n区间1 ● 00:00 <131次/分\n区间2 ● 01:12 132-144次/分\n区间3 ● 01:15 145-157次/分\n区间4 20:22 158-170次/分\n区间5 10:13 171+次/分\n每个心率区间的估计时间。\n体能训练后心率\n172\n09:11 1分钟 2分钟 129\n171次/分 150次/分 134次/分",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-06",
+        "weekday": null,
+        "week_number": "01",
+        "training_time": "14",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 852,
+        "duration_raw": "14:12",
+        "distance": null,
+        "calories": {
+          "dynamic": null,
+          "total": null,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": null,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": null,
+          "average_raw": null,
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 167,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  },
+  {
+    "image_name": "3 月 8 日 徒步 心率.png",
+    "relative_path": "week01/3 月 8 日 徒步 心率.png",
+    "processed_time": "2025-04-16T17:48:18.371639",
+    "raw_text": "14:48\n平均心率\n140次/分\n心率\n09:05 11:04 13:02 86\n平均140次/分\n区间1 2:11:15 <131次/分\n区间2 58:48 132-144次/分\n区间3 1:02:34 145-157次/分\n区间4 1:13:42 158-170次/分\n区间5 13:17 171+次/分\n每个心率区间的估计时间。\n体能训练后心率\n15:01 1分钟 2分钟 97\n116次/分 115次/分 112次/分",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-08",
+        "weekday": null,
+        "week_number": "01",
+        "training_time": "14",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 888,
+        "duration_raw": "14:48",
+        "distance": null,
+        "calories": {
+          "dynamic": null,
+          "total": null,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": null,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": null,
+          "average_raw": null,
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 140,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  },
+  {
+    "image_name": "3 月 6 日 周四 心率.png",
+    "relative_path": "week01/3 月 6 日 周四 心率.png",
+    "processed_time": "2025-04-16T17:48:23.058761",
+    "raw_text": "11:39\n< 心率\n心率提要\n每日提要\n心率：睡眠\n这是你近期睡眠期间的心率。\n最高\n55\n最低\n44\n00:00\n06:33\n心率：体能训练\n最近一次跑步训练中，你的心率范围是\n137-173次/分钟。\n最高\n172\n最低\n137\n08:36\n09:10\n心率：体能训练后\n上一次跑步后的3分钟内，你的心率下降了\n35次/分钟。\n172次/分\n129次/分\n171\n157\n135\n+1分钟\n+2分钟\n+3分钟\n09:11\n显示所有提要\n摘要 共享 浏览",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-06",
+        "weekday": "四",
+        "week_number": "01",
+        "training_time": "11",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 699,
+        "duration_raw": "11:39",
+        "distance": null,
+        "calories": {
+          "dynamic": null,
+          "total": null,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": null,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": null,
+          "average_raw": null,
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": null,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  }
+]

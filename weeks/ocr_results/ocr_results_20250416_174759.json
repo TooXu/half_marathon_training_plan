@@ -1,0 +1,51 @@
+[
+  {
+    "image_name": "3 月 4 日 周二.PNG",
+    "relative_path": "week01/3 月 4 日 周二.PNG",
+    "processed_time": "2025-04-16T17:47:59.485377",
+    "raw_text": "09:59\n训练与练习 3月4日周二\n体能训练详细信息 显示更多\n体能训练时间 距离\n0:30:59 5.07公里\n动态卡路里 总卡路里\n342大卡 392大卡\n平均步频 平均配速\n166步/分 6'06\"/公里\n平均心率\n169次/分\n耗能 ±\n7 困难\n单段 显示更多\n时间 配速 心率\n1 06:00 6'00\" 155次/分\n2 06:03 6'03\" 170次/分\n3 06:11 6'11\" 172次/分\n4 06:01 6'01\" 172次/分\n5 06:08 6'08\" 173次/分\n摘要 Fitness+ 共享",
+    "activity_type": "跑步",
+    "parsed_data": {
+      "type": "training",
+      "activity_type": "跑步",
+      "metadata": {
+        "date": "2025-03-04",
+        "weekday": "二",
+        "week_number": "01",
+        "training_time": "09",
+        "training_type": "体能训练"
+      },
+      "details": {
+        "duration": 599,
+        "duration_raw": "09:59",
+        "distance": 5.07,
+        "calories": {
+          "dynamic": null,
+          "total": 342,
+          "difference": null
+        },
+        "intensity": {
+          "level": null,
+          "description": null
+        },
+        "cadence": {
+          "average": 166,
+          "unit": "steps/min"
+        },
+        "pace": {
+          "average_seconds": 118,
+          "average_raw": "1'58\"",
+          "best": null,
+          "worst": null
+        },
+        "heart_rate": {
+          "average": 169,
+          "max": null,
+          "min": null,
+          "unit": "bpm"
+        },
+        "segments": []
+      }
+    }
+  }
+]
